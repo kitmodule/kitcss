@@ -421,7 +421,7 @@ MIT License
 ## Links
 
 - [GitHub Repository](https://github.com/kitmodule/kitcss)
-- [Guide](https://github.com/kitmodule/kitcss/guide.md)
+- [Guide](https://github.com/kitmodule/kitcss/blob/master/guide.md)
 
 ---
 
