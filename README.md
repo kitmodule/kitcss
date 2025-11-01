@@ -12,14 +12,9 @@ A lightweight, utility-first CSS framework with state-driven styling through dat
 
 ## Installation
 
-```bash
-npm install kitcss
-```
-
-Or use CDN:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/kitcss/dist/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kitmodule/kitcss@latest/src/main.css">
 ```
 
 ## Core Concept: Data Attributes
